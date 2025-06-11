@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2rem;
+}
+
+.formulario {
+  margin-bottom: 2rem;
+}
+
+input, select {
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+
+.lista {
+  list-style: none;
+  padding: 0;
+}
+
+.lista li {
+  background: #f0f0f0;
+  margin: 0.5rem 0;
+  padding: 1rem;
+  border-radius: 8px;
+}
